@@ -18,7 +18,7 @@ class LoginPage extends ConsumerWidget {
                   bottom: 25,
                 ),
                 child: Image.asset(
-                  "assets/images/youtube-signin.jpg",
+                  "assets/images/youtube-signin.png",
                   height: 150,
                 ),
               ),
